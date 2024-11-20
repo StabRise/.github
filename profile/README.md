@@ -4,12 +4,13 @@ StabRise - Document Processing Solutions
 
 # Our projects
 
-## Spark Pdf
+## ScaleDP
 
+<a href="https://stabrise.com/scaledp/"><img alt="ScaleDP" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/4a/7d/4a7d97c2-50d7-4b7a-9902-af2df9b574da/scaledplogo.png__1000x300_subsampling-2.webp" height="120" /></a>
 
-Spark-Pdf is a library for processing documents using Apache Spark.
+ScaleDP is a library for processing documents using Apache Spark.
 
-It includes the following features:
+### Key features:
 
 - Load PDF documents/Images
 - Extract text from PDF documents/Images
@@ -18,10 +19,13 @@ It includes the following features:
 - Run NER on text extracted from PDF documents/Images
 - Visualize NER results
 
-## Spark Pdf Pro
+## ScaleDP Pro
+
+<a href="https://stabrise.com/scaledp-pro/"><img alt="De-Identify" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/76/a6/76a6730a-e124-40db-918c-53520ab562cb/scaledpprologo.png__1000x300_subsampling-2.webp" height="120" /></a>
 
 
-Licensed extension for the Spark Pdf library
+Licensed extension for the ScaleDP library
+
 ### Features
  - Fast inference with ONNX
  - More accurate OCR
@@ -30,9 +34,9 @@ Licensed extension for the Spark Pdf library
 
 ## De-Identify
 
-<a href="https://deidentify.online"><img alt="De-Identify" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/c4/da/c4da8d9f-ea3c-44cb-9495-1484bddc4490/de-identify.png__1000x250_subsampling-2.webp" height="120" /></a>
+<a href="https://deidentify.online"><img alt="De-Identify" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/fb/fe/fbfe4b0c-dadb-4878-88ad-1c0ece0dc053/deidentifylogo.png__1000x300_subsampling-2.webp" height="120" /></a>
 
-De-Identify is tool for de-identify/anonymize data:
+De-Identify is tool for de-identification/anonymization data
 
 ### Supported formats
  - text
