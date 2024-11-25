@@ -4,11 +4,33 @@ StabRise - Document Processing Solutions
 
 # Our projects
 
+## PDF DataSource for the Apache Spark
+
+<a href="https://stabrise.com/spark-pdf/"><img alt="Spark-Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/34/78/347862e2-7a13-4310-a1cd-e397fdf12a23/sparkpdflogo1000.png__1000x300_subsampling-2.webp" height="120" /></a>
+
+---
+
+**Source Code**: [https://github.com/StabRise/spark-pdf](https://github.com/StabRise/spark-pdf)
+
+**Quick Start Jupyter Notebook**: [https://github.com/StabRise/spark-pdf/examples/PdfDataSource.ipynb](https://github.com/StabRise/spark-pdf/examples/PdfDataSource.ipynb)
+
+---
+
+The project provides a custom data source for the Apache Spark that allows you to read PDF files into the Spark DataFrame.
+
+## Key features:
+
+- Read PDF documents to the Spark DataFrame
+- Support read PDF files lazy per page
+- Support big files, up to 10k pages
+- Support scanned PDF files (call OCR)
+- No need to install Tesseract OCR, it's included in the package
+
 ## ScaleDP
 
 <a href="https://stabrise.com/scaledp/"><img alt="ScaleDP" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/4a/7d/4a7d97c2-50d7-4b7a-9902-af2df9b574da/scaledplogo.png__1000x300_subsampling-2.webp" height="120" /></a>
 
-ScaleDP is a library for processing documents using Apache Spark.
+ScaleDP is an Open-Source Library for processing documents using Apache Spark.
 
 ### Key features:
 
@@ -19,18 +41,6 @@ ScaleDP is a library for processing documents using Apache Spark.
 - Run NER on text extracted from PDF documents/Images
 - Visualize NER results
 
-## ScaleDP Pro
-
-<a href="https://stabrise.com/scaledp-pro/"><img alt="De-Identify" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/76/a6/76a6730a-e124-40db-918c-53520ab562cb/scaledpprologo.png__1000x300_subsampling-2.webp" height="120" /></a>
-
-
-Licensed extension for the ScaleDP library
-
-### Features
- - Fast inference with ONNX
- - More accurate OCR
- - Pdf Spark datasource
- - Support Docx, Dicom
 
 ## De-Identify
 
