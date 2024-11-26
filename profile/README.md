@@ -6,7 +6,7 @@ StabRise - Document Processing Solutions
 
 ## PDF DataSource for the Apache Spark
 
-<a href="https://stabrise.com/spark-pdf/"><img alt="Spark-Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/34/78/347862e2-7a13-4310-a1cd-e397fdf12a23/sparkpdflogo1000.png__1000x300_subsampling-2.webp" height="120" /></a>
+<a href="https://stabrise.com/spark-pdf/"><img alt="Spark Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/16/d6/16d6a0d6-f162-42ad-a5a3-7dc20361ad24/sparkpdf.png__1000x300_subsampling-2.webp" height="120"></a>
 
 ---
 
