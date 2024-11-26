@@ -4,13 +4,37 @@ StabRise - Document Processing Solutions
 
 # Our projects
 
-## Spark Pdf
+## PDF DataSource for the Apache Spark
 
-<a href="https://stabrise.com/spark-pdf/"><img alt="Spark Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/de/31/de3156f0-386d-4b3b-ac7e-8856a38f7c1e/sparkpdflogo.png__808x214_subsampling-2.webp" height="150" /></a>
+<a href="https://stabrise.com/spark-pdf/"><img alt="Spark Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/16/d6/16d6a0d6-f162-42ad-a5a3-7dc20361ad24/sparkpdf.png__1000x300_subsampling-2.webp" height="120"></a>
 
-Spark-Pdf is a library for processing documents using Apache Spark.
+---
 
-It includes the following features:
+**Source Code**: [https://github.com/StabRise/spark-pdf](https://github.com/StabRise/spark-pdf)
+
+**Home page**: [https://stabrise.com/spark-pdf/](https://stabrise.com/spark-pdf/)
+
+**Quick Start Jupyter Notebook**: [https://github.com/StabRise/spark-pdf/blob/main/examples/PdfDataSource.ipynb](https://github.com/StabRise/spark-pdf/blob/main/examples/PdfDataSource.ipynb)
+
+---
+
+The project provides a custom data source for the Apache Spark that allows you to read PDF files into the Spark DataFrame.
+
+## Key features:
+
+- Read PDF documents to the Spark DataFrame
+- Support read PDF files lazy per page
+- Support big files, up to 10k pages
+- Support scanned PDF files (call OCR)
+- No need to install Tesseract OCR, it's included in the package
+
+## ScaleDP
+
+<a href="https://stabrise.com/scaledp/"><img alt="ScaleDP" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/4a/7d/4a7d97c2-50d7-4b7a-9902-af2df9b574da/scaledplogo.png__1000x300_subsampling-2.webp" height="120" /></a>
+
+ScaleDP is an Open-Source Library for processing documents using Apache Spark.
+
+### Key features:
 
 - Load PDF documents/Images
 - Extract text from PDF documents/Images
@@ -19,22 +43,12 @@ It includes the following features:
 - Run NER on text extracted from PDF documents/Images
 - Visualize NER results
 
-## Spark Pdf Pro
-
-<a href="https://stabrise.com/spark-pdf-pro/"><img alt="Spark Pdf Pro" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/59/b0/59b02ce8-31a8-4f1b-8550-56fa3f3593e7/sparkpdfpro1000.png__1000x231_subsampling-2.webp" height="170" /></a>
-
-Licensed extension for the Spark Pdf library
-### Features
- - Fast inference with ONNX
- - More accurate OCR
- - Pdf Spark datasource
- - Support Docx, Dicom
 
 ## De-Identify
 
-<a href="https://deidentify.online"><img alt="De-Identify" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/c4/da/c4da8d9f-ea3c-44cb-9495-1484bddc4490/de-identify.png__1000x250_subsampling-2.webp" height="170" /></a>
+<a href="https://deidentify.online"><img alt="De-Identify" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/fb/fe/fbfe4b0c-dadb-4878-88ad-1c0ece0dc053/deidentifylogo.png__1000x300_subsampling-2.webp" height="120" /></a>
 
-De-Identify is tool for de-identify/anonymize data:
+De-Identify is tool for de-identification/anonymization data
 
 ### Supported formats
  - text
