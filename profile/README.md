@@ -32,6 +32,16 @@ The project provides a custom data source for the Apache Spark that allows you t
 
 <a href="https://stabrise.com/scaledp/"><img alt="ScaleDP" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/4a/7d/4a7d97c2-50d7-4b7a-9902-af2df9b574da/scaledplogo.png__1000x300_subsampling-2.webp" height="120" /></a>
 
+---
+
+**Source Code**: [https://github.com/StabRise/scaledp](https://github.com/StabRise/saledp)
+
+**Home page**: [https://stabrise.com/scaledp/](https://stabrise.com/scaledp/)
+
+**Quick Start Jupyter Notebook**: [https://github.com/StabRise/ScaleDP-Tutorials/blob/master/1.QuickStart.ipynb](https://github.com/StabRise/ScaleDP-Tutorials/blob/master/1.QuickStart.ipynb)
+
+---
+
 ScaleDP is an Open-Source Library for processing documents using Apache Spark.
 
 ### Key features:
