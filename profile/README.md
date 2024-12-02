@@ -34,7 +34,7 @@ The project provides a custom data source for the Apache Spark that allows you t
 
 ---
 
-**Source Code**: [https://github.com/StabRise/scaledp](https://github.com/StabRise/saledp)
+**Source Code**: [https://github.com/StabRise/scaledp](https://github.com/StabRise/scaledp)
 
 **Home page**: [https://stabrise.com/scaledp/](https://stabrise.com/scaledp/)
 
