@@ -54,14 +54,11 @@ ScaleDP is an Open-Source Library for processing documents using Apache Spark.
 - Visualize NER results
 
 
-## De-Identify
+## PDF Redaction
 
-<a href="https://deidentify.online"><img alt="De-Identify" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/fb/fe/fbfe4b0c-dadb-4878-88ad-1c0ece0dc053/deidentifylogo.png__1000x300_subsampling-2.webp" height="120" /></a>
+<a href="https://pdf-redaction.com"><img alt="pdf-redaction" src="https://pdf-redaction.com/images/pdf-redaction-logo.svg" height="120" /></a>
 
-De-Identify is tool for de-identification/anonymization data
+Free AI-powered tool for redact PDF files (remove sensitive information) online.
 
-### Supported formats
- - text
- - images
- - pdf documents
- - DICOM files
+<img alt="pdf-redaction" src="https://media.licdn.com/dms/image/v2/D4D22AQGhRpexOnAbyA/feedshare-shrink_800/B4DZVmbKWPHIAg-/0/1741180153002?e=1744243200&v=beta&t=lRQXyJ5nHYvdU4uF6LJuq69oKs72yPBs1xts2IrJgxc"/>
+
