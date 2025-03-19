@@ -6,7 +6,8 @@ StabRise - Document Processing Solutions
 
 ## PDF DataSource for the Apache Spark
 
-<a href="https://stabrise.com/spark-pdf/"><img alt="Spark Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/16/d6/16d6a0d6-f162-42ad-a5a3-7dc20361ad24/sparkpdf.png__1000x300_subsampling-2.webp" height="120"></a>
+
+<a href="https://stabrise.com/spark-pdf/"><img alt="Spark Pdf" src="https://stabrise.com/static/images/projects/sparkpdf.webp" height="120"></a>
 
 ---
 
@@ -30,7 +31,7 @@ The project provides a custom data source for the Apache Spark that allows you t
 
 ## ScaleDP
 
-<a href="https://stabrise.com/scaledp/"><img alt="ScaleDP" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/4a/7d/4a7d97c2-50d7-4b7a-9902-af2df9b574da/scaledplogo.png__1000x300_subsampling-2.webp" height="120" /></a>
+<a href="https://stabrise.com/scaledp/"><img alt="ScaleDP" src="https://stabrise.com/static/images/projects/scaledp.webp" height="120" /></a>
 
 ---
 
